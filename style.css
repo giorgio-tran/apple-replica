@@ -3,3 +3,13 @@ nav.navbar {
   opacity: 0.8;
   font-size: 12px;
 }
+
+.background-img {
+  background-image: url("iphone14bg.jpeg");
+
+  height: 600px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
