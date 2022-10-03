@@ -8,6 +8,10 @@ nav.navbar {
   font-size: 12px;
 }
 
+footer {
+  background-color: #F5F5F7;
+  padding: 60px 0 20px 0;
+}
 .background-img {
   height: 650px;
 
